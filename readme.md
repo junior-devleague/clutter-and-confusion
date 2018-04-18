@@ -35,7 +35,7 @@ Desired Outcomes
 Tasks
 =====
 
-1.   Start by definining a function, with 1 argument -- a list to sort. This is your sort function, so call it something like sort(myList)
+1.   Start by importing randint from random and then definining a function with 1 argument -- a list to sort. This is your sort function, so call it something like sort(myList)
 2.   Using an index based for loop, iterate over every number in your input list
 3.   Inside the first loop, use a second for loop to iterate over every number up to your current index value
 4.   Inside that for loop, compare every number to the value of your list at the index value given by the first loop
