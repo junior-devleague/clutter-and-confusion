@@ -13,7 +13,7 @@ Activity to teach the creation of an insertion sort. Part of the Sorting Algorit
 Objective
 =========
 
-Having foiled Bubble Boy's attempts in the [previous exercise](https://github.com/junior-devleague/data-dissaray), you sent him running back to Dr. Monsoon's lair of evil, located deep on the sea floor. At the moment, Dr. Monsoon is all tied up dealing with Heroes Inc., but unfortunately his right hand man, Billy the Squid, is not. Now he and Bubble Boy are here and are wreaking havoc! They've already unsorted several lists, and they're messing up more every minute... Create an [insertion sort] (https://en.wikipedia.org/wiki/Insertion_sort) and stop them before it's too late!
+Having foiled Bubble Boy's attempts in the [previous exercise](https://github.com/junior-devleague/data-dissaray), you sent him running back to Dr. Monsoon's lair of evil, located deep on the sea floor. At the moment, Dr. Monsoon is all tied up dealing with Heroes Inc., but unfortunately his right hand man, Billy the Squid, is not. Now he and Bubble Boy are here and are wreaking havoc! They've already unsorted several lists, and they're messing up more every minute... Create an [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) and stop them before it's too late!
 
 Prerequisites
 =============
